@@ -2,7 +2,7 @@
 title: "Underestimated diversity in high elevations of a global biodiversity hotspot: Two new endemic species of Aethionema (Brassicaceae) from the alpine zone of Iran
 "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/moazzeni2023underestimated
 excerpt: ''
 date: 26 May 2023
 venue: 'Frontiers in Plant Science Sec. Plant Systematics and Evolution'
