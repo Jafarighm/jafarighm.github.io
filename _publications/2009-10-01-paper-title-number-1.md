@@ -7,7 +7,7 @@ excerpt: ''
 date: 26 May 2023
 venue: 'Frontiers in Plant Science Sec. Plant Systematics and Evolution'
 paperurl: 'https://doi.org/10.3389/fpls.2023.1182073'
-author: 'Moazzeni, H., Mahmoodi, <strong>M., Jafari</strong>, M., Schneeweiss, G. M., & Noroozi, J.'
+author: 'H. Moazzeni, M. Mahmoodi, <strong>M. Jafari</strong>, G.M. Schneeweiss, J. Noroozi'
 ---
 Abstract:
 ---------------
