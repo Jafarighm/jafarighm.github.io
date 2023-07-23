@@ -6,8 +6,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 26 May 2023
 venue: 'Frontiers in Plant Science Sec. Plant Systematics and Evolution'
-paperurl: 'https://www.frontiersin.org/articles/10.3389/fpls.2023.1182073/pdf'
-citation: ''
+paperurl: 'https://doi.org/10.3389/fpls.2023.1182073'
+citation: 'Moazzeni, H., Mahmoodi, M., Jafari, M., Schneeweiss, G. M., & Noroozi, J. (2023). Underestimated diversity in high elevations of a global biodiversity hotspot: two new endemic species of Aethionema (Brassicaceae) from the alpine zone of Iran. *Frontiers in Plant Science*, 14, 1182073.'
 ---
 * Abstract:
   
