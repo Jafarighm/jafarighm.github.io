@@ -28,15 +28,16 @@ Work experience
   
 Skills
 ======
-* Programming
-  * Python
-  * R 
-* Software
-  * QGIS
-  * 
-  * Arc GIS pro 
-  * Adobe illustrator
-* Lad Skills 
+* Programming Language
+  Phyton / R / \LaTeX\
+* Software 
+  * Adademis related 
+    QGIS / Arc GIS / 
+  * Non-academic Related
+    
+* Lad Skills
+  PCR / DNA ex
+  
 
 Publications
 ======
