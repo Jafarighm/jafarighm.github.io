@@ -29,14 +29,14 @@ Work experience
 Skills
 ======
 * Programming Language
-  Phyton / R / \LaTeX\
+  Phyton / R / LaTeX
 * Software 
   * Adademis related 
-    QGIS / Arc GIS / 
+    QGIS / Arc GIS / Geneious / Figtree / MEGA 
   * Non-academic Related
     
 * Lad Skills
-  PCR / DNA ex
+  PCR / DNA extraction / Electrophoresis / FLowcytometry 
   
 
 Publications
