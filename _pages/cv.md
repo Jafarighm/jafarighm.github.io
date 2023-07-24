@@ -32,17 +32,17 @@ Skills
 
   Phyton / R / LaTeX
   
-* Software 
-  * Adademis related
+* Software:
+  * Adademis related:
      
     QGIS / Arc GIS / Geneious / Figtree / MEGA 
-  * Non-academic Related
+  * Non-academic Related:
  
-* Operation system
+* Operation system:
 
-  Windoens / Linux 
+  Windows / Linux 
     
-* Lad Skills
+* Lad Skills:
   
   PCR / DNA extraction / Electrophoresis / FLowcytometry 
   
