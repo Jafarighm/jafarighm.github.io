@@ -30,21 +30,21 @@ Skills
 ======
 * Programming Language:
 
- Phyton / R / LaTeX
+ **Phyton / R / LaTeX**
   
 * Software:
   * Adademis related:
      
-    QGIS / Arc GIS / Geneious / Figtree / MEGA 
+    **QGIS / Arc GIS / Geneious / Figtree / MEGA**
   * Non-academic Related:
  
 * Operation system:
 
-  Windows / Linux 
+  **Windows / Linux** 
     
 * Lad Skills:
   
-  PCR / DNA extraction / Electrophoresis / FLowcytometry 
+  **PCR / DNA extraction / Electrophoresis / FLowcytometry**
   
 
 Publications
