@@ -30,7 +30,7 @@ Skills
 ======
 * Programming Language:
 
-  Phyton / R / LaTeX
+- Phyton / R / LaTeX
   
 * Software:
   * Adademis related:
