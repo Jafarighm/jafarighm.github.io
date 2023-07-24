@@ -37,6 +37,10 @@ Skills
      
     QGIS / Arc GIS / Geneious / Figtree / MEGA 
   * Non-academic Related
+ 
+* Operation system
+
+  Windoens / Linux 
     
 * Lad Skills
   
