@@ -30,17 +30,16 @@ Skills
 ======
 * Programming Language:
 
-  **Phyton / R / LaTeX**
+  **Phyton / R / Bash / LaTeX**
   
 * Software:
   * Adademis related:
      
-    **QGIS / Arc GIS / Geneious / Figtree / MEGA**
+    **QGIS / Arc GIS / Geneious / Figtree / MEGA / FlowJo**
+    
   * Non-academic Related:
- 
-* Operation system:
-
-  **Windows / Linux** 
+    
+    **LibreOffice / Microsoft Office / Inkscape / Scribus / Adobe Illustrator / Adobe Photoshop**
     
 * Lad Skills:
   
@@ -56,5 +55,11 @@ Publications
 Teaching
 ======
   <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Workshop
+======
+  <ul>{% for post in site.workshop %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
