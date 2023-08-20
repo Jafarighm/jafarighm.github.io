@@ -33,7 +33,7 @@ Skills
   **Phyton / R / Bash / LaTeX**
   
 * Software:
-  * Adademis related:
+  * Adademic related:
      
     **QGIS / Arc GIS / Geneious / Figtree / MEGA / FlowJo**
     
