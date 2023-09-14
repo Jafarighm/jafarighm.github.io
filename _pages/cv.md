@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Plant Biology, Ferdowsi University of Mashad, 2017 - 2021
-* M.Sc. in Jekyll, GitHub University, 2021 - Present
+* M.Sc. in Plans Biosystematioc and Ecology, Ferdowsi University of Mashad, 2021 - Present
 
 Work experience
 ======
