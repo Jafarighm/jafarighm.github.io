@@ -16,15 +16,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2019- 2021: Research Assistant
+  * Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad
+  * Duties included: 
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
