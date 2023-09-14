@@ -35,7 +35,7 @@ Skills
 * Software:
   * Adademic related:
      
-    **QGIS / Arc GIS / Geneious / Figtree / MEGA / FlowJo**
+    **QGIS / Arc GIS / Geneious / Figtree / MEGA / PAUP / Mesquite / FlowJo**
     
   * Non-academic Related:
     
