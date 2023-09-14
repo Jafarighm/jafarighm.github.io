@@ -19,7 +19,7 @@ Work experience
 * 2019- 2021: Research Assistant
   * Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad
   * Duties included: 
-  * Supervisor: Professor {Hamid Moazzeni}<https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC>
+  * Supervisor: Professor [Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)
 
   
 Skills
