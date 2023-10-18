@@ -1,6 +1,6 @@
 ---
-title: <div style="text-align: right">"Underestimated diversity in high elevations of a global biodiversity hotspot: Two new endemic species of Aethionema (Brassicaceae) from the alpine zone of Iran
-"</div>
+title: "Underestimated diversity in high elevations of a global biodiversity hotspot: Two new endemic species of Aethionema (Brassicaceae) from the alpine zone of Iran
+"
 collection: publications
 permalink: /publication/moazzeni2023underestimated
 excerpt: ''
