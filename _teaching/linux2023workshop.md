@@ -12,7 +12,7 @@ location: "Mashhad, Iran"
 
 
 <div class="container">
-  <img class="container__image" src="https://github.com/Jafarighm/jafarighm.github.io/blob/master/images/linux2023workshop.png"/>
+  <img class="container__image" src="/master/images/linux2023workshop.png"/>
   <div class="container__text">
     <h2>First Session</h2>
     <p> NNNNNN "</p>
