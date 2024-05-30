@@ -23,4 +23,4 @@ location: "Mashhad, Iran"
 </div>
 
 <p
-align="center"><img src="https://github.com/mmatschiner/tutorials/blob/master/bayesian_species_tree_inference/img/beauti1.png" alt="poster" width="200"></p>
+align="center"><img src="https://jafarighm.github.io/images/profile1.jpg" alt="poster" width="200"></p>
