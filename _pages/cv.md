@@ -74,12 +74,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Workshop
-======
-  <ul>{% for post in site.workshop %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Volunteering
 ======
 **Secretary of the Student Scientific Society of Biology**<br>
@@ -107,3 +101,14 @@ Aug 2021<br>
 *Ferdowsi University of Mashhad*<br>
 Jan 2019
 
+References
+======
+* [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
+  Assistant Professor of Plant Biosystematics<br>
+  Department of Biology, Faculty of Science<br>
+  Ferdowsi University of Mashhad, Mashhad, Iran<br>
+
+* [Dr. Atefeh Pirani](https://scholar.google.com/citations?hl=en&user=nnxfaJoAAAAJ)<br>
+  Assistant Professor of Plant Biosystematics<br>
+  Department of Biology, Faculty of Science<br>
+  Ferdowsi University of Mashhad, Mashhad, Iran<br> 
