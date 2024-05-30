@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/jafari2024Climate
 date: 26 May 2023
 review: 'Biodiversity'
+author: '<strong>M. Jafari</strong>, M. Behroozian, A. Pirani, F. Shabani, K. Mummenhoff, M. A. Lysak, H. Moazzeni'
 ---
 
 Abstract:
