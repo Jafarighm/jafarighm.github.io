@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
+* 2021 - Present
+    Plant Ecology and Biosystematics
+    Master of Science
+    GPA; 3.6
+    Department of Biology
+    Ferdowsi University of Mashhad
 * B.Sc. in Plant Biology, Ferdowsi University of Mashad, 2017 - 2021
-* M.Sc. in Plans Biosystematic and Ecology, Ferdowsi University of Mashad, 2021 - Present
 
 Work experience
 ======
