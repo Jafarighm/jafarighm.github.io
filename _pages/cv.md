@@ -38,7 +38,7 @@ Work experience
 &emsp;**Research Assistant**<br>
 &emsp;Duties included: <br>
 &emsp;Supervisor: Professor [Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
-&emsp;*Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad*<br>
+&emsp;*Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
 
   
