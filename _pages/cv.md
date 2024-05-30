@@ -11,31 +11,21 @@ redirect_from:
 
 Education
 ======
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+* 2021 - Present <br>
+&emsp;**Plant Ecology and Biosystematics** <br>
+&emsp;Master of Science<br>
+&emsp;GPA; 3.6 <br>
+&emsp;*Department of Biology* <br>
+&emsp;*Ferdowsi University of Mashhad*<be>
 
-* 2021 - Present<be>
-  **Plant Ecology and Biosystematics**<be>
-  Master of Science<br>
-  GPA; 3.6<br>
-  *Department of Biology*<br>
-  *Ferdowsi University of Mashhad*<be>
+* 2017 – 2021 <br>
+&emsp;**Plant Biology** <br>
+&emsp;Bachelor of Science <br>
+&emsp;GPA; 3.4 <br>
+&emsp;*Department of Biology* <br>
+&emsp;*Ferdowsi University of Mashhad* <br>
 
-* 2017 – 2021<be>
-  **Plant Biology**<br>
-  Bachelor of Science<br>
-  GPA; 3.4<br>
-  *Department of Biology*<br>
-  *Ferdowsi University of Mashhad*<br>
-
+  
 Work experience
 ======
 * 2019- 2021: Research Assistant
