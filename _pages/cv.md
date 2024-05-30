@@ -100,8 +100,8 @@ Honors & Awards
 *Ferdowsi University of Mashhad*<br>
 Apr 2024<br>
 
-**Achieving 5th place in the national entrance exam for the Master's program in Plant Biology, out of all candidates in Iran.**<br>
-Aug 2021<be>
+**Achieving fifth place in the national entrance exam for the Master's program in Plant Biology, out of all candidates in Iran.**<br>
+Aug 2021<br>
 
 **Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.**<br>
 *Ferdowsi University of Mashhad*<br>
