@@ -1,4 +1,3 @@
-
 ---
 title: "QGIS Traning"
 collection: teaching
