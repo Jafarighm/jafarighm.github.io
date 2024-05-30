@@ -71,6 +71,18 @@ Work experience
   Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
   *Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
+Honors & Awards
+======
+**Being selected as the top student in the Master's program among all Master's biology students by the Vice Chancellor of the Faculty of Science at Ferdowsi University.**<br>
+*Ferdowsi University of Mashhad*<br>
+Apr 2024<br>
+
+**Achieving fifth place in the national entrance exam for the Master's program in Plant Biology, out of all candidates in Iran.**<br>
+Aug 2021<br>
+
+**Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.**<br>
+*Ferdowsi University of Mashhad*<br>
+Jan 2019
 
 Volunteering
 ======
@@ -86,18 +98,6 @@ May 2019 · 1 mo<br>
 *Ferdowsi University of Mashhad*<br>
 Jan 2017 · 2 weeks<br>
 
-Honors & Awards
-======
-**Being selected as the top student in the Master's program among all Master's biology students by the Vice Chancellor of the Faculty of Science at Ferdowsi University.**<br>
-*Ferdowsi University of Mashhad*<br>
-Apr 2024<br>
-
-**Achieving fifth place in the national entrance exam for the Master's program in Plant Biology, out of all candidates in Iran.**<br>
-Aug 2021<br>
-
-**Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.**<br>
-*Ferdowsi University of Mashhad*<br>
-Jan 2019
 
 References
 ======
