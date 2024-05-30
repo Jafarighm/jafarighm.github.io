@@ -16,22 +16,30 @@ Education
 &emsp;Master of Science<br>
 &emsp;GPA; 3.6 <br>
 &emsp;*Department of Biology* <br>
-&emsp;*Ferdowsi University of Mashhad*<be>
+&emsp;*Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<be>
 
 * 2017 – 2021 <br>
 &emsp;**Plant Biology** <br>
 &emsp;Bachelor of Science <br>
 &emsp;GPA; 3.4 <br>
 &emsp;*Department of Biology* <br>
-&emsp;*Ferdowsi University of Mashhad* <br>
+&emsp;*Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran* <br>
 
   
 Work experience
 ======
-* 2019- 2021: Research Assistant
-  * Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad
-  * Duties included: 
-  * Supervisor: Professor [Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)
+* November 2020 - Jun 2021:
+&emsp;**Teacher Assistant**
+&emsp;Duties included: 
+&emsp;Supervisor: Professor [Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)
+&emsp;*Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*
+
+* November 2020 - Jun 2021:
+&emsp;**Research Assistant**
+&emsp;Duties included: 
+&emsp;Supervisor: Professor [Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)
+&emsp;*Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad*
+
 
   
 Skills
