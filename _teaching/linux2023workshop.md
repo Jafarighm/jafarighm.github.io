@@ -23,5 +23,4 @@ location: "Mashhad, Iran"
 </div>
 
 <p
-align="center"><img src="https://github.com/Jafarighm/jafarighm.github.io/blob/master/images/linux2023workshop.png" alt="poster" width="200"></p>
-![](https://github.com/Jafarighm/jafarighm.github.io/blob/master/images/linux2023workshop.png)
+align="center"><img src="https://github.com/mmatschiner/tutorials/blob/master/bayesian_species_tree_inference/img/beauti1.png" alt="poster" width="200"></p>
