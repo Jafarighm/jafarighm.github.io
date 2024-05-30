@@ -85,7 +85,7 @@ Workshop
 Volunteering
 ======
 **Secretary of the Student Scientific Society of Biology**<br>
-*Student Scientific Society of Biology, Ferdowsi University of Mashhad*<br>
+*Ferdowsi University of Mashhad*<br>
 Jan 2019 - Jan 2020 · 1 yr<br>
 
 **Executive Staff Assistant in the First National Symposium on Organoids**<br>
@@ -99,8 +99,10 @@ Jan 2017 · 2 weeks<be>
 Honors & Awards
 ======
 
+*Ferdowsi University of Mashhad*<br>
 Apr 2024<br>
 
-Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.<br>
+**Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.**<be>
+*Ferdowsi University of Mashhad*<br>
 Jan 2019
 
