@@ -25,20 +25,6 @@ Education
   *Department of Biology* <br>
   *Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran* <br>
   
-Work experience
-======
-* November 2020 - Jun 2021:<br>
-  **Teacher Assistant**<br>
-  Duties included: <br>
-  Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
-  *Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
-
-* November 2020 - Jun 2021:<br>
-  **Research Assistant**<br>
-  Duties included: <br>
-  Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
-  *Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
-
 Skills
 ======
 * Computer Skills
@@ -59,8 +45,6 @@ Skills
 
 * Wet Lab Skills:<br>
   **PCR, DNA extraction, Electrophoresis, FLowcytometry**
-  
-
 
 Publications
 ======
@@ -73,6 +57,19 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Work experience
+======
+* November 2020 - Jun 2021:<br>
+  **Teacher Assistant**<br>
+  Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
+  *Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
+
+* November 2020 - Jun 2021:<br>
+  **Research Assistant**<br>
+  Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
+  *Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
+
 
 Volunteering
 ======
@@ -106,9 +103,9 @@ References
 * [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
   Assistant Professor of Plant Biosystematics<br>
   Department of Biology, Faculty of Science<br>
-  Ferdowsi University of Mashhad, Mashhad, Iran<br>
+  *Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
 * [Dr. Atefeh Pirani](https://scholar.google.com/citations?hl=en&user=nnxfaJoAAAAJ)<br>
   Assistant Professor of Plant Biosystematics<br>
   Department of Biology, Faculty of Science<br>
-  Ferdowsi University of Mashhad, Mashhad, Iran<br> 
+  *Ferdowsi University of Mashhad, Mashhad, Iran*<br> 
