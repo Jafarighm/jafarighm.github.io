@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2021 - Present<be>
-<t>**Plant Ecology and Biosystematics**<be>
+  **Plant Ecology and Biosystematics**<be>
   Master of Science<br>
   GPA; 3.6<br>
   *Department of Biology*<br>
