@@ -12,30 +12,30 @@ redirect_from:
 Education
 ======
 * 2021 - Present <br>
-  **Plant Ecology and Biosystematics** <be>
-  Master of Science<be>
+  **Plant Ecology and Biosystematics** <br>
+  Master of Science<br>
   GPA; 3.6 <br>
   *Department of Biology* <br>
-  *Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<be>
+  *Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
-* 2017 – 2021 <be>
-  **Plant Biology** <be>
-  Bachelor of Science <be>
+* 2017 – 2021 <br>
+  **Plant Biology** <br>
+  Bachelor of Science <br>
   GPA; 3.4 <br>
   *Department of Biology* <br>
   *Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran* <br>
   
 Work experience
 ======
-* November 2020 - Jun 2021:<be>
-  **Teacher Assistant**<be>
-  Duties included: <be>
+* November 2020 - Jun 2021:<br>
+  **Teacher Assistant**<br>
+  Duties included: <br>
   Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
   *Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
-* November 2020 - Jun 2021:<be>
-  **Research Assistant**<be>
-  Duties included: <be>
+* November 2020 - Jun 2021:<br>
+  **Research Assistant**<br>
+  Duties included: <br>
   Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
   *Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
