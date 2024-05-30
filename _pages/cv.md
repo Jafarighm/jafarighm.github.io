@@ -12,35 +12,35 @@ redirect_from:
 Education
 ======
 * 2021 - Present <br>
-&emsp;**Plant Ecology and Biosystematics** <br>
-&emsp;Master of Science<br>
-&emsp;GPA; 3.6 <br>
-&emsp;*Department of Biology* <br>
-&emsp;*Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<be>
+  **Plant Ecology and Biosystematics** <be>
+  Master of Science<be>
+  GPA; 3.6 <br>
+  *Department of Biology* <br>
+  *Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<be>
 
-* 2017 – 2021 <br>
-&emsp;**Plant Biology** <br>
-&emsp;Bachelor of Science <br>
-&emsp;GPA; 3.4 <br>
-&emsp;*Department of Biology* <br>
-&emsp;*Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran* <br>
+* 2017 – 2021 <be>
+  **Plant Biology** <be>
+  Bachelor of Science <be>
+  GPA; 3.4 <br>
+  *Department of Biology* <br>
+  *Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran* <br>
 
 ![50%](https://progress-bar.dev/50)
 
   
 Work experience
 ======
-* November 2020 - Jun 2021:<br>
-&emsp;**Teacher Assistant**<br>
-&emsp;Duties included: <br>
-&emsp;Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
-&emsp;*Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
+* November 2020 - Jun 2021:<be>
+  **Teacher Assistant**<be>
+  Duties included: <be>
+  Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
+  *Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
-* November 2020 - Jun 2021:<br>
-&emsp;**Research Assistant**<br>
-&emsp;Duties included: <br>
-&emsp;Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
-&emsp;*Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
+* November 2020 - Jun 2021:<be>
+  **Research Assistant**<be>
+  Duties included: <be>
+  Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
+  *Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
 Skills
 ======
