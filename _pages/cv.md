@@ -40,24 +40,26 @@ Work experience
 &emsp;Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
 &emsp;*Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
-
-  
 Skills
 ======
-* Programming Language:
+* Computer Skills:
 
   **Phyton / R / Bash / LaTeX**
   
 * Software:
-  * Adademic related:
+    * Programming Language
+    * Software
+        * Academic Related
+        * Non-Academic Related
+      
      
     **QGIS / Arc GIS / Geneious / Figtree / MEGA / PAUP / Mesquite / FlowJo**
     
-  * Non-academic Related:
+  * Analytical Skills:
     
     **LibreOffice / Microsoft Office / Inkscape / Scribus / Adobe Illustrator / Adobe Photoshop**
     
-* Lad Skills:
+* Wet Lab Skills:
   
   **PCR / DNA extraction / Electrophoresis / FLowcytometry**
   
