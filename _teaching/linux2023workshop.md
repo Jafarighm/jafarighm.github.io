@@ -21,3 +21,5 @@ location: "Mashhad, Iran"
     <p> NNNNNN </p>    
   </div>
 </div>
+
+align="center"><img src="images/linux2023workshop.png" alt="poster" width="700"></p>
