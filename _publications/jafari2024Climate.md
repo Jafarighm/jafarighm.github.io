@@ -2,11 +2,7 @@
 title: "Climate Change Impacts: <em>Aethionema spinosum</em> (Brassicaceae) Retreating to High-Elevation Refugia"
 collection: publications
 permalink: /publication/jafari2024Climate
-excerpt: ''
-date: 
 venue: 'Under review'
-paperurl: ''
-author: ''
 ---
 Abstract:
 ---------------
