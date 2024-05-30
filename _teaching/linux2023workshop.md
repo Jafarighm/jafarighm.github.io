@@ -23,4 +23,4 @@ location: "Mashhad, Iran"
 </div>
 
 <p
-align="center"><img src="https://github.com/Jafarighm/jafarighm.github.io/blob/master/images/linux2023workshop.png" alt="poster" width="500"></p>
+align="center"><img src="https://github.com/Jafarighm/jafarighm.github.io/blob/master/images/linux2023workshop.png" alt="poster" width="200"></p>
