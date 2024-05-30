@@ -25,6 +25,8 @@ Education
 &emsp;*Department of Biology* <br>
 &emsp;*Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran* <br>
 
+![50%](https://progress-bar.dev/50)
+
   
 Work experience
 ======
