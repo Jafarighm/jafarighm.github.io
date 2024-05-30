@@ -42,15 +42,15 @@ Work experience
 
 Skills
 ======
-* Computer Skills:
-
-  **Phyton / R / Bash / LaTeX**
-  
-* Software:
-    * Programming Language
+* Computer Skills
+    * Programming Language<br>
+    &emsp;**R, Python, Bash, LaTeX**
     * Software
-        * Academic Related
-        * Non-Academic Related
+        * Academic Related<br>
+        &emsp;**QGIS, Arc GIS, FlowJo, Figtree, MEGA, PAUP, Mesquite, Geneious**
+
+        * Non-Academic Related<br>
+        &emsp;**LibreOffice, Inkscape Microsoft Office, Scribus, Adobe Illustrator, Adobe Photoshop**
       
      
     **QGIS / Arc GIS / Geneious / Figtree / MEGA / PAUP / Mesquite / FlowJo**
