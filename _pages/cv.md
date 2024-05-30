@@ -35,16 +35,17 @@ Skills
     * Analytical Skills<br>
         **Map Design** (Software: QGIS, Arc GIS)<br>
         **Phylogeny** (Software: Ugene, MEGA, PAUP, Mesquite, Geneious, Figtree, Treeviewer)<br>
-        **FlowCytometry** (Software: FlowJo, R package: )<br>
         **Ecological Niche Modeling** (R package: ENMeval, ENMTools, kuenm, biomode2)<br>
         **Ecological Niche Comparision** (R package: ecospat, Humboldt)<br>
+        **FlowCytometry** (Software: FlowJo, Python package: FlowCytometryTools)<br>
+
 
     * Non-Academic Related<br>
     **Graphic Design** (Software: Inkscape, Scribus, Adobe Illustrator, Adobe Photoshop)
 
 
 * Wet Lab Skills:<br>
-  **PCR, DNA extraction, Electrophoresis, FLowcytometry**
+  **PCR, DNA extraction, Electrophoresis, FLowcytometry, Karyotype**
 
 Publications
 ======
