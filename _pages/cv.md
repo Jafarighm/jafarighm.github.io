@@ -94,7 +94,7 @@ May 2019 · 1 mo<br>
 
 **Executive Staff Assistant in the International Conference on Integrative Approaches of Rodent Studies**<br>
 *Ferdowsi University of Mashhad*<br>
-Jan 2017 · 2 weeks<be>
+Jan 2017 · 2 weeks<br>
 
 Honors & Awards
 ======
@@ -102,7 +102,7 @@ Honors & Awards
 *Ferdowsi University of Mashhad*<br>
 Apr 2024<br>
 
-**Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.**<be>
+**Acknowledged officially by Vice President for Socio-Cultural and Student Affairs of the Ferdowsi University of Mashhad for honorable activity during scientific membership in the Student Scientific Society.**<br>
 *Ferdowsi University of Mashhad*<br>
 Jan 2019
 
