@@ -43,26 +43,25 @@ Work experience
 Skills
 ======
 * Computer Skills
-    * Programming Language<br>
-    &emsp;**R, Python, Bash, LaTeX**
-    * Software
-        * Academic Related<br>
-        &emsp;**QGIS, Arc GIS, FlowJo, Figtree, MEGA, PAUP, Mesquite, Geneious**
 
-        * Non-Academic Related<br>
-        &emsp;**LibreOffice, Inkscape Microsoft Office, Scribus, Adobe Illustrator, Adobe Photoshop**
-      
-     
-    **QGIS / Arc GIS / Geneious / Figtree / MEGA / PAUP / Mesquite / FlowJo**
-    
-  * Analytical Skills:
-    
-    **LibreOffice / Microsoft Office / Inkscape / Scribus / Adobe Illustrator / Adobe Photoshop**
-    
-* Wet Lab Skills:
+    * Programming Language<br>
+      **R, Python, Bash, LaTeX**
+
+    * Analytical Skills<br>
+        **Map Design** (Software: QGIS, Arc GIS)<br>
+        **Phylogeny** (Software: Ugene, MEGA, PAUP, Mesquite, Geneious, Figtree, Treeviewer)<br>
+        **FlowCytometry** (Software: FlowJo, R package: )<br>
+        **Ecological Niche Modeling** (R package: ENMeval, ENMTools, kuenm, biomode2)<br>
+        **Ecological Niche Comparision** (R package: ecospat, Humboldt)<br>
+
+    * Non-Academic Related<br>
+    **Graphic Design** (Software: Inkscape, Scribus, Adobe Illustrator, Adobe Photoshop)
+
+
+* Wet Lab Skills:<br>
+  **PCR, DNA extraction, Electrophoresis, FLowcytometry**
   
-  **PCR / DNA extraction / Electrophoresis / FLowcytometry**
-  
+
 
 Publications
 ======
