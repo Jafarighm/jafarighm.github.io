@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "<p align="center">CV</p>"
+title: "<p 
+          align="center">CV</p>"
 permalink: /cv/
 author_profile: true
 redirect_from:
