@@ -12,12 +12,15 @@ redirect_from:
 Education
 ======
 * 2021 - Present<br>
+
   **Plant Ecology and Biosystematics**<be>
   Master of Science<br>
   GPA; 3.6<br>
   *Department of Biology*<br>
-  *Ferdowsi University of Mashhad*<br>
+  *Ferdowsi University of Mashhad*<be>
+
 * 2017 – 2021<br>
+
     **Plant Biology**<br>
     Bachelor of Science<br>
     GPA; 3.4<br>
