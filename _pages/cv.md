@@ -61,12 +61,12 @@ Teaching
 
 Work experience
 ======
-* November 2020 - Jun 2021:<br>
+* November 2020 - Jun 2021<br>
   **Teacher Assistant**<br>
   Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
   *Department of Botany, Faculty of Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
 
-* November 2020 - Jun 2021:<br>
+* November 2020 - Jun 2021<br>
   **Research Assistant**<br>
   Supervisor: [Dr. Hamid Moazzeni](https://scholar.google.com/citations?hl=en&user=H8J7BPe_gNkC)<br>
   *Department of Botany, Research Center for Plant Science, Ferdowsi University of Mashhad, Mashhad, Iran*<br>
