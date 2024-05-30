@@ -18,11 +18,11 @@ Education
     *Department of Biology*<br>
     *Ferdowsi University of Mashhad*<br>
 * 2017 – 2021<br>
-    **Plant Biology**
-    Bachelor of Science
-    GPA; 3.4
-    *Department of Biology*
-    *Ferdowsi University of Mashhad*
+    **Plant Biology**<br>
+    Bachelor of Science<br>
+    GPA; 3.4<br>
+    *Department of Biology*<br>
+    *Ferdowsi University of Mashhad*<br>
 
 Work experience
 ======
