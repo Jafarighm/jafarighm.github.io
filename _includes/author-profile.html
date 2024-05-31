@@ -11,9 +11,9 @@
 <div itemscope itemtype="http://schema.org/Person">
   
   {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-  <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+  <img class="avatar avatar-circle"
   width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}"
-  src="{{ $avatar_image.RelPermalink }}" alt="{{ author.name }}">
+  src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
