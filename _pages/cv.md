@@ -48,7 +48,6 @@ Skills
   **PCR, DNA extraction, Electrophoresis, FLowcytometry, Karyotype**
   
 * Language<br>
-        **Persian** (Mother Tongue)<br>
         **English** (C1: IELTS 7)<br>
 
 Publications
