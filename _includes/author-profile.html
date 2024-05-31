@@ -3,7 +3,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*author.avatar*" }}
+{{ $avatar := {{ author.avatar | prepend: "/images/" | prepend: base_path }} }}
 
 
 
