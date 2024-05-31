@@ -13,8 +13,7 @@
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       <img class="avatar avatar-circle"
            width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}"
-           src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
-      {{ end }}
+           src="{{ $avatar_image.RelPermalink }}" alt="{{ author.name }}">
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
