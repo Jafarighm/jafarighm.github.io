@@ -68,6 +68,13 @@
 /*
    Author profile and links
    ========================================================================== */
+.avatar-circle {
+  border-radius: 50%;
+}
+
+.avatar-square {
+  border-radius: 3px;
+}
 
 .author__avatar {
   display: table-cell;
