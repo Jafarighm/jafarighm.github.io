@@ -3,6 +3,8 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+
 
 <div itemscope itemtype="http://schema.org/Person">
 
