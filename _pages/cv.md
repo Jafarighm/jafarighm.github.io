@@ -34,7 +34,7 @@ Skills
 
     * Analytical Skills<br>
         **Map Design** (Software: QGIS, Arc GIS)<br>
-        **Phylogeny** (Software: Ugene, MEGA, PAUP, Mesquite, Geneious, Figtree, Treeviewer)<br>
+        **Phylogeny** (Software: Ugene, Geneious, MEGA, MAFFT, AliView, BMGE, JModelTest, PAUP\*, Mesquite, Figtree, Treeviewer, IQ-TREE, BEAST2, Tracer, PAML, ASTRAL, aTRAM2, Abyss, BWA, bcftools, Dsuite)<br>
         **Ecological Niche Modeling** (R package: ENMeval, ENMTools, kuenm, biomode2)<br>
         **Ecological Niche Comparision** (R package: ecospat, Humboldt)<br>
         **FlowCytometry** (Software: FlowJo, Python package: FlowCytometryTools)<br>
