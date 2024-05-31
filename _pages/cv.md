@@ -40,12 +40,16 @@ Skills
         **FlowCytometry** (Software: FlowJo, Python package: FlowCytometryTools)<br>
 
 
-    * Non-Academic Related<br>
+    * Non-Academic<br>
     **Graphic Design** (Software: Inkscape, Scribus, Adobe Illustrator, Adobe Photoshop)
 
 
 * Wet Lab Skills:<br>
   **PCR, DNA extraction, Electrophoresis, FLowcytometry, Karyotype**
+  
+* Language<br>
+        **Persian** (Mother Tongue)<br>
+        **English** (C1: IELTS 7)<br>
 
 Publications
 ======
