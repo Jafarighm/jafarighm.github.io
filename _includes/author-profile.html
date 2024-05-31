@@ -4,7 +4,7 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-{{ $avatar :=  {{author.avatar | prepend: "/images/" | prepend: base_path}} }}
+{{ $avatar := {{author.avatar | prepend: "/images/" | prepend: base_path}} }}
 
 
 
