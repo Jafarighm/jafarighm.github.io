@@ -1,6 +1,6 @@
 ---
 title: "Linux Essentials Traning"
-collection: talks
+collection: teaching
 type: "Workshop"
 permalink: /teaching/linux2023workshop
 venue: "Ferdowsi University of Mashhad, Faculty of Science, Department of Biology"
